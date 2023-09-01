@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // http://localhost:3000/comments
 const express = require("express");
 const app = express();
