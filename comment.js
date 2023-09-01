@@ -11,4 +11,4 @@ app.set("view engine", "ejs");
 
 // index page
 app.get("/comments", function (req, res) {
-  var comments = [
+  var comments = []; });
